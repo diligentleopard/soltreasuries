@@ -1,0 +1,23 @@
+
+nav.toc {
+  position: sticky;
+  top: 2rem;
+  width: 200px;
+  background-color: #121223;
+  padding: 1rem;
+  border-radius: 8px;
+}
+nav.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+nav.toc li {
+  margin-bottom: 0.75rem;
+}
+nav.toc a {
+  color: #a0a0ff;
+  font-weight: bold;
+}
+nav.toc a:hover {
+  color: #ffffff;
+}
