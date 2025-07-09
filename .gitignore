@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+.env
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+
+# Google credentials (⚠️ do not track)
+soltreasuries-bacb5dba61ae.json
+
+# VS Code settings (optional)
+.vscode/
+
+# Temporary or backup files
+*.html~
+*.log
